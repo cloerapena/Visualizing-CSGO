@@ -13,7 +13,7 @@ Throughout development of this project we did not use any external libraries and
 
 ## Usage
 
-To view and use our project, please visit our [website](https://cloerapena.github.io/Visualizing-CSGO/)). Upon visiting the website you will land on the Head to Head match predictor. It defaults to displaying the two best teams in the world. Users can choose to either change the teams using the drop down menu or begin the head to head analysis by clicking the arrows on the right and left hand side of the screen.
+To view and use our project, please visit our [website](https://cloerapena.github.io/Visualizing-CSGO/). Upon visiting the website you will land on the Head to Head match predictor. It defaults to displaying the two best teams in the world. Users can choose to either change the teams using the drop down menu or begin the head to head analysis by clicking the arrows on the right and left hand side of the screen.
 
 There are 5 phases of the head to head predictor. In each phase, the two selected teams will be compared using a criteria ranging from ranking in the top 30, to which team has the better players on average. Users will be able to see in real time how these two teams stack up.
 
